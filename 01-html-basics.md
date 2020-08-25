@@ -8,7 +8,7 @@ After you have completed both challenges and added/committed your work, we are g
 
 ### Challenge 1
 
-- Copy the markdown below and preview it in VSCode
+- Copy the markdown below and preview it in VSCode ( some previews include a line underneath the table header, can't do this in normal html )
 - Recreate what this looks like in HTML 
 
 ```md 
