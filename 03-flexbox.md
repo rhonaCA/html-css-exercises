@@ -1,3 +1,11 @@
+# HTML & CSS Exercises
+
+## What now?
+You should be used to this now, complete the challenges one by one and don't forget to add and commit after each challenge.
+
+## What next?
+The next branch `04-grid` is available now as well, after you've added and committed switch back to master then create the new branch and pull down the content from github.
+
 ### Challenge 1
 
 Create a centred box (500px by 500px) in the middle of a full width page using flexbox.
