@@ -11,7 +11,6 @@ After you have completed both challenges and added/committed your work, we are g
 - Copy the markdown below and preview it in VSCode ( some previews include a line underneath the table header, can't do this in normal html )
 - Recreate what this looks like in HTML 
 
-```md 
 # Hello world 
 
 This is some text.
@@ -45,7 +44,6 @@ First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
-```
 
 ### Challenge 2
 - Recreate the form below
